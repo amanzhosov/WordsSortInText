@@ -1,0 +1,11 @@
+D:\CTI\WordsSortInText\WordsSortInText\bin\Release\netcoreapp2.0\WordsSortInText.deps.json
+D:\CTI\WordsSortInText\WordsSortInText\bin\Release\netcoreapp2.0\WordsSortInText.runtimeconfig.json
+D:\CTI\WordsSortInText\WordsSortInText\bin\Release\netcoreapp2.0\WordsSortInText.runtimeconfig.dev.json
+D:\CTI\WordsSortInText\WordsSortInText\bin\Release\netcoreapp2.0\WordsSortInText.dll
+D:\CTI\WordsSortInText\WordsSortInText\bin\Release\netcoreapp2.0\WordsSortInText.pdb
+D:\CTI\WordsSortInText\WordsSortInText\obj\Release\netcoreapp2.0\WordsSortInText.csproj.CoreCompileInputs.cache
+D:\CTI\WordsSortInText\WordsSortInText\obj\Release\netcoreapp2.0\WordsSortInText.AssemblyInfoInputs.cache
+D:\CTI\WordsSortInText\WordsSortInText\obj\Release\netcoreapp2.0\WordsSortInText.AssemblyInfo.cs
+D:\CTI\WordsSortInText\WordsSortInText\obj\Release\netcoreapp2.0\WordsSortInText.dll
+D:\CTI\WordsSortInText\WordsSortInText\obj\Release\netcoreapp2.0\WordsSortInText.pdb
+D:\CTI\WordsSortInText\WordsSortInText\obj\Release\netcoreapp2.0\WordsSortInText.csprojAssemblyReference.cache
