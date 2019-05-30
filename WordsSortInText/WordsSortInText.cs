@@ -8,7 +8,7 @@ namespace WordsSortInText
 {
     class WordsSortInText
     {
-        static private string[] splits = { " - ", " ", ".", ",", ":", ";", "!", "?", "(", ")", "\"", "\r\n" };
+        static private string[] splits = { " - ", " ", ".", ",", ":", ";", "!", "?", "(", ")", "\"", "\r", "\n" };
 
         static void Main(string[] args)
         {
